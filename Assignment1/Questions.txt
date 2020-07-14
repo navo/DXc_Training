@@ -1,0 +1,28 @@
+1. Write a program to take a integer as input
+   Print the sum of digits of the number?
+   ex 9999 - 36 - 9
+2. Write a program to display the factorial of numbers from 1 to the input number?
+   Take input using scanner? Also display if the factorial is a prime number or not?
+3. Write a program to display number of days in a month? Month Name(String) and
+   year should be taken as input? Leap year should be considered?
+4. Write a program to print first 10 natural numbers
+5. Write a program to print first 10 natural numbers in reverse order
+6. Write a program to print first 10 even natural numbers
+7. Write a program to print numbers between the range ( say 10 to 100 OR 100 to 200 etc.,)
+8. Write a program to print mathematical table of given number
+9. Write a program to find whether the given number is prime or not.
+10. Write a program to print prime numbers between 2 to 100
+11. Write a program to get reverse of given number
+12. Write a program to find whether the given number is  palindrome or not
+13. Write a program to find factorial of given number
+14. Write a program to find ncr. Hint : ncr = ( n! / ( (n-r)! * r!)
+15. Write a program to find sum of individual digits of given number
+16. Write a program to get reverse of given number
+17. Write a program to find whether the given number is palindrome or not.
+18. Write a program to convert given digit into the word format.
+  a. If i/p is 1 -> output : One
+  b. If i/p is 2 -> output : Two etc.,
+19. Write a program to convert given number into word format.
+   a. If i/p is 123 -> output : One Hundred Twenty Three
+   
+   
