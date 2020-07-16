@@ -43,7 +43,7 @@ public static void main(String args[])
 		ar[i]=input%10;
 		input=input/10;
 	}
-	if(input==0)
+	if(input1==0)
 		System.out.println("Zero");
 	else {
 	if(input1<20)
